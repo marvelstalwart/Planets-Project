@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.3.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "planets-project",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "scripts": {
+   "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
